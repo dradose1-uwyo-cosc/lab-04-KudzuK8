@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Nelia Koontz]
+## [Lab 04]
+## [Submission date: 10/02/2024]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Emmanuel Penkra
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* N/A
